@@ -1,318 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1a81821b-fbe8-4b1f-911d-2940e0c365be" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/aznews-master.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Magazine_News Doc/css/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Magazine_News Doc/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Magazine_News Doc/css/normalize.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Magazine_News Doc/fonts/FontAwesome.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Magazine_News Doc/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Magazine_News Doc/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Magazine_News Doc/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Magazine_News Doc/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Magazine_News Doc/img/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Magazine_News Doc/img/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Magazine_News Doc/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Magazine_News Doc/js/custom.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Magazine_News Doc/js/jquery-1.11.0.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Magazine_News Doc/js/jquery.nav.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Magazine_News Doc/syntax-highlighter/scripts/shAutoloader.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Magazine_News Doc/syntax-highlighter/scripts/shBrushAS3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Magazine_News Doc/syntax-highlighter/scripts/shBrushAppleScript.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Magazine_News Doc/syntax-highlighter/scripts/shBrushBash.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Magazine_News Doc/syntax-highlighter/scripts/shBrushCSharp.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Magazine_News Doc/syntax-highlighter/scripts/shBrushColdFusion.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Magazine_News Doc/syntax-highlighter/scripts/shBrushCpp.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Magazine_News Doc/syntax-highlighter/scripts/shBrushCss.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Magazine_News Doc/syntax-highlighter/scripts/shBrushDelphi.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Magazine_News Doc/syntax-highlighter/scripts/shBrushDiff.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Magazine_News Doc/syntax-highlighter/scripts/shBrushErlang.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Magazine_News Doc/syntax-highlighter/scripts/shBrushGroovy.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Magazine_News Doc/syntax-highlighter/scripts/shBrushJScript.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Magazine_News Doc/syntax-highlighter/scripts/shBrushJava.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Magazine_News Doc/syntax-highlighter/scripts/shBrushJavaFX.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Magazine_News Doc/syntax-highlighter/scripts/shBrushPerl.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Magazine_News Doc/syntax-highlighter/scripts/shBrushPhp.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Magazine_News Doc/syntax-highlighter/scripts/shBrushPlain.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Magazine_News Doc/syntax-highlighter/scripts/shBrushPowerShell.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Magazine_News Doc/syntax-highlighter/scripts/shBrushPython.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Magazine_News Doc/syntax-highlighter/scripts/shBrushRuby.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Magazine_News Doc/syntax-highlighter/scripts/shBrushSass.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Magazine_News Doc/syntax-highlighter/scripts/shBrushScala.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Magazine_News Doc/syntax-highlighter/scripts/shBrushSql.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Magazine_News Doc/syntax-highlighter/scripts/shBrushVb.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Magazine_News Doc/syntax-highlighter/scripts/shBrushXml.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Magazine_News Doc/syntax-highlighter/scripts/shCore.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Magazine_News Doc/syntax-highlighter/scripts/shLegacy.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Magazine_News Doc/syntax-highlighter/styles/shCore.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Magazine_News Doc/syntax-highlighter/styles/shCoreDefault.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Magazine_News Doc/syntax-highlighter/styles/shCoreDjango.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Magazine_News Doc/syntax-highlighter/styles/shCoreEclipse.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Magazine_News Doc/syntax-highlighter/styles/shCoreEmacs.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Magazine_News Doc/syntax-highlighter/styles/shCoreFadeToGrey.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Magazine_News Doc/syntax-highlighter/styles/shCoreMDUltra.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Magazine_News Doc/syntax-highlighter/styles/shCoreMidnight.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Magazine_News Doc/syntax-highlighter/styles/shCoreRDark.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Magazine_News Doc/syntax-highlighter/styles/shThemeDefault.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Magazine_News Doc/syntax-highlighter/styles/shThemeDjango.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Magazine_News Doc/syntax-highlighter/styles/shThemeEclipse.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Magazine_News Doc/syntax-highlighter/styles/shThemeEmacs.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Magazine_News Doc/syntax-highlighter/styles/shThemeFadeToGrey.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Magazine_News Doc/syntax-highlighter/styles/shThemeMDUltra.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Magazine_News Doc/syntax-highlighter/styles/shThemeMidnight.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Magazine_News Doc/syntax-highlighter/styles/shThemeRDark.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/animate.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/flaticon.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/fontawesome-all.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/gijgo.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/magnific-popup.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/main.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/nice-select.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/owl.carousel.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/responsive.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/slick.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/slicknav.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/style.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/themify-icons.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/ticker-style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/Flaticon.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/Flaticon.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/Flaticon.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/Flaticon.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/Flaticon.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/fa-brands-400.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/fa-brands-400.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/fa-brands-400.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/fa-brands-400.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/fa-brands-400.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/fa-regular-400.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/fa-regular-400.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/fa-regular-400.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/fa-regular-400.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/fa-regular-400.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/fa-solid-900.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/fa-solid-900.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/fa-solid-900.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/fa-solid-900.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/fa-solid-900.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/flaticon.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/flaticon.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/themify.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/themify.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/themify.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/themify.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/about/about_lft.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/about/about_right.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/about/pet_care.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/adapt_icon/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/adapt_icon/1.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/adapt_icon/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/adapt_icon/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/banner/dog.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/banner/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/blog/author.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/blog/blog_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/blog/learn_about_bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/blog/single_blog_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/blog/single_blog_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/blog/single_blog_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/blog/single_blog_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/blog/single_blog_5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/blog/slide_thumb_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/comment/comment_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/comment/comment_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/comment/comment_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/elements/a.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/elements/a2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/elements/d.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/elements/disabled-check.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/elements/disabled-radio.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/elements/f1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/elements/f2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/elements/f3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/elements/f4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/elements/f5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/elements/f6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/elements/f7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/elements/f8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/elements/g1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/elements/g2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/elements/g3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/elements/g4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/elements/g5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/elements/g6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/elements/g7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/elements/g8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/elements/primary-check.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/elements/primary-radio.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/elements/success-check.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/elements/success-radio.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/gallery/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/gallery/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/gallery/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/hero/h1_hero.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/hero/header_card.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/icon/header_icon1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/icon/header_icon2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/logo/LogoFZPreto.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/logo/form-iocn.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/logo/form-iocn.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/logo/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/logo/logo2_footer.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/logo/logo2_footerold.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/logo/logo2_footerxx.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/logo/logo3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/news/icon-fb.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/news/icon-ins.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/news/icon-tw.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/news/icon-yo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/news/news_card.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/news/recent1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/news/recent2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/news/recent3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/news/video_overly1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/news/weekly2News1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/news/weekly2News2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/news/weekly2News3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/news/weekly2News4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/news/weeklyNews1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/news/weeklyNews2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/news/weeklyNews3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/news/whatNews1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/news/whatNews2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/news/whatNews3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/news/whatNews4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/offers/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/offers/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/offers/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/our_blog/blog-img1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/post/about_heor.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/post/instra1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/post/instra2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/post/instra3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/post/instra4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/post/instra5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/post/instra6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/post/next.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/post/post_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/post/post_10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/post/post_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/post/post_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/post/post_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/post/post_5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/post/post_6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/post/post_7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/post/post_8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/post/post_9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/post/preview.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/prising/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/prising/10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/prising/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/prising/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/prising/4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/prising/5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/prising/6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/prising/7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/prising/8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/prising/9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/service/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/service/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/service/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/service/completed_case_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/service/completed_case_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/service/completed_case_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/service/completed_case_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/service/completed_case_5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/service/completed_case_6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/service/service_icon_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/service/service_icon_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/service/service_icon_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/service/service_icon_bg_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/service/services_bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/team/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/team/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/team/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/trending/right1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/trending/right2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/trending/right3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/trending/right4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/trending/right5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/trending/trending_bottom1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/trending/trending_bottom2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/trending/trending_bottom3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/trending/trending_top.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/trending/trending_top1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/trending/trending_top2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/animated.headline.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/contact.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/gijgo.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/jquery.ajaxchimp.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/jquery.form.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/jquery.magnific-popup.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/jquery.nice-select.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/jquery.paroller.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/jquery.scrollUp.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/jquery.slicknav.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/jquery.sticky.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/jquery.ticker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/jquery.validate.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/mail-script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/one-page-nav-min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/owl.carousel.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/plugins.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/popper.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/site.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/slick.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/vendor/jquery-1.12.4.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/vendor/modernizr-3.5.0.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/wow.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/_about-page.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/_blog.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/_blog_page.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/_bradcam.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/_color.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/_common.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/_completed-cases.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/_contact.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/_elements.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/_extend.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/_footer.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/_headerMenu.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/_mixins.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/_overlay.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/_recent-articles.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/_services.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/_services_section.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/_team.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/_testimonial.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/_trending.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/_variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/_wecky-new.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/_wecky2-new.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/_whats-new.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/_youtube.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/style.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/categori.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_process.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/details.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/elements.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/latest_news.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/readme.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-blog.html" afterDir="false" />
+    <list default="true" id="1a81821b-fbe8-4b1f-911d-2940e0c365be" name="Default Changelist" comment="Primeiro Commit completo em 07-12-2020">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/details.html" beforeDir="false" afterPath="$PROJECT_DIR$/details.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -338,12 +31,16 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JavaScript Debug.details.html">
+    <configuration name="details.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/aznews-master/details.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/aznews-master/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.details.html" />
         <item itemvalue="JavaScript Debug.index.html" />
       </list>
     </recent_temporary>
@@ -356,8 +53,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1607348252552</updated>
-      <workItem from="1607348253623" duration="12968000" />
+      <workItem from="1607348253623" duration="20071000" />
     </task>
+    <task id="LOCAL-00001" summary="Primeiro Commit completo em 07-12-2020">
+      <created>1607378299930</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1607378299931</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -373,5 +78,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Primeiro Commit completo em 07-12-2020" />
+    <option name="LAST_COMMIT_MESSAGE" value="Primeiro Commit completo em 07-12-2020" />
   </component>
 </project>
